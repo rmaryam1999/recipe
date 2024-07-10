@@ -7,10 +7,10 @@
 >>>>>>> 2a1739762b430d8d1f571f90f7e28c47c778257f
 # recipe of Baking Chocolate cake 
 <<<<<<< HEAD
-As I love Chocolate
+As I love **Chocolate**
 last line changed locally
 ### Ingredients 
-- Chocolate
+- **Chocolate**
 - Milk
 - Flower
 - Eggs
