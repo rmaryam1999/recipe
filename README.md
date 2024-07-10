@@ -22,5 +22,5 @@ As I love Chocolate line 2 changed remotely
 
 ### This is a REMOTE change :O
 >>>>>>> 2a1739762b430d8d1f571f90f7e28c47c778257f
-
+![alt text](recipe-1.jpg)
 
